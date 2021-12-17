@@ -9,8 +9,8 @@ div {
 }
 .box p {
     position: absolute;
-    top: 10;
-    left: 20;
+    top: 0;
+    left: 0;
     padding: 10px;
 }
 .box {  
