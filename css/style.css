@@ -17,4 +17,13 @@ div {
 .box {  
     position: relative;
 }
-
+.block p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    color: #FFF
+}
+.block {  
+    position: relative;
+}
