@@ -9,11 +9,9 @@ div {
 }
 .box p {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 10;
+    left: 20;
     padding: 10px;
-    background-color: #000;
-    color: #fff;
 }
 .box {  
     position: relative;
