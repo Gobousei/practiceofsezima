@@ -1,5 +1,5 @@
   body{
-  background-image:url('https://lh3.googleusercontent.com/proxy/DzDHd4jrzk6SrLWDph3HJaHc0Ojioh9FXJLTKd6caSlGklGVMkcwE-YiGtyhcIG86DlLzvie1JpVHs7ln-WouhYF6BNku16y58BhertxmJY3IO185t9QjEaFaUQO0pxTKHP8OO5Apijnl3EaMHOg0WE7iORj1-_-S3A');
+  background-image:url('https://lh3.googleusercontent.com/proxy/DzDHd4jrzk6SrLWDph3HJaHc0Ojioh9FXJLTKd6caSlGklGVMkcwE-YiGtyhcIG86DlLzvie1JpVHs7ln-WouhYF6BNku16y58BhertxmJY3IO185t9QjEaFaUQO0pxTKHP8OO5Apijnl3EaMHOg0WE7iORj1-_-S3A'width: 400px;);
   }
 div {
   padding: 10px;/* 内側の余白 */
@@ -15,7 +15,4 @@ div {
     background-color: #000;
     color: #fff;
 }
-img.example2 {
-width: 400px;
-height: 130px;
-}
+
