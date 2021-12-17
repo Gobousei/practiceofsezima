@@ -1,8 +1,29 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>ゲネプロ</title>
+    <link rel="stylesheet" href="css/style.css"/>
 </head>
-<body>
-
+<body style="background-image: url(https://satsuei-navi.com/studio_syoei2/image/L208_024studio_syoei2_210407_P10_450_300.jpg);">
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <img src="https://user-images.githubusercontent.com/93245017/146506448-926cadd0-097f-43bd-a632-6e41497c3417.png"alt=""width="150" height="150">
+    <div class="box">
+        <img src="https://frame-illust.com/fi/wp-content/uploads/2018/03/fukidashi-dot-rectangle-03-400x200.png"alt="">
+        <p>
+        <p>
+        <p>　　　大麻の栽培が見つかって警察に捕まった。</p>
+        <p>
+        <p>
+        <p>
+        </div>
+        <input type="button" value="逃げる"onclick="location.href='choose1'" />
+        <input type="button" value="捕まる"onclick="location.href='choose2'" />
+    <script src="js/script.js"></script>
 </body>
-</html>
