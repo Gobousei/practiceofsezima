@@ -23,7 +23,5 @@
         <p>
         <p>
         </div>
-        <input type="button" value="逃げる"onclick="location.href='choose1'" />
-        <input type="button" value="捕まる"onclick="location.href='choose2'" />
     <script src="js/script.js"></script>
 </body>
