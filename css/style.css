@@ -18,7 +18,7 @@ div {
     position: relative;
 }
 .box input{
- position: absolute;
+ position: relative;
  right: 5px;
  bottom: 5px;
 }
