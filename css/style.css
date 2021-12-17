@@ -12,6 +12,7 @@ div {
     top: 0;
     left: 0;
     padding: 10px;
+    color: #000
 }
 .box {  
     position: relative;
