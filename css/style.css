@@ -16,6 +16,8 @@ div {
 }
 .box {  
     position: relative;
+  float: left;
+  width: 45%; /* 要素の幅を50%に定義 */
 }
 .block p {
     position: absolute;
@@ -26,6 +28,8 @@ div {
 }
 .block {  
     position: relative;
+    float: left;
+  width: 45%; /* 要素の幅を50%に定義 */
 }
 a.btn--orange {
   color: #fff;
@@ -64,4 +68,9 @@ button.btn {
   letter-spacing: 0.1em;
   color: #212529;
   border-radius: 0.5rem;
+}
+human{
+float: right;
+
+  width: 45%; /* 要素の幅を50%に定義 */
 }
