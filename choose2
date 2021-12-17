@@ -23,8 +23,7 @@
         <p>
         <p>
         </div>
-        <a href="https://htmlpreview.github.io/?https://github.com/Gobousei/practiceofsezima/blob/main/choose3" class="btn btn--orange btn--cubic btn--shadow">逃げる</a>
-        <input type="button" value="逃げる"onclick="location.href='https://htmlpreview.github.io/?https://github.com/Gobousei/practiceofsezima/blob/main/choose3'" />
-        <input type="button" value="捕まる"onclick="location.href='https://htmlpreview.github.io/?https://github.com/Gobousei/practiceofsezima/blob/main/choose4'" />
+        <a href="https://htmlpreview.github.io/?https://github.com/Gobousei/practiceofsezima/blob/main/choose4" class="btn btn--orange btn--cubic btn--shadow">逃げる</a>
+        <a href="https://htmlpreview.github.io/?https://github.com/Gobousei/practiceofsezima/blob/main/choose3" class="btn btn--orange btn--cubic btn--shadow">捕まる</a>
     <script src="js/script.js"></script>
 </body>
