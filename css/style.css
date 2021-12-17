@@ -17,3 +17,8 @@ div {
 .box {  
     position: relative;
 }
+.sample input{
+ position: absolute;
+ right: 5px;
+ bottom: 5px;
+}
