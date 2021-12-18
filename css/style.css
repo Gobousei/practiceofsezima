@@ -14,6 +14,13 @@ div {
     padding: 10px;
     color: #000
 }
+.box pre {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    color: #000
+}
 .box {  
   position: absolute; bottom: 100px; left:150px;
 }
@@ -21,6 +28,13 @@ div {
   position: absolute; bottom: 0px; left:150px;
 }
 .block p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    color: #FFF
+}
+.block pre {
     position: absolute;
     top: 0;
     left: 0;
