@@ -28,7 +28,10 @@ div {
     color: #FFF
 }
 .block {  
-    position: relative;
+    position: absolute; bottom: 100px; left:100px;
+}
+.human{
+position: absolute; bottom: 50px; right:70px;
 }
 a.btn--orange {
   color: #fff;
