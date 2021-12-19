@@ -3,7 +3,7 @@ obj.onload = function() {
       var n;//文字を増やす処理の回数を数える変数nの宣言
       //↓関数の宣言↓
       function word(){
-        var s = "input_box"
+        var s = document.getElementById("input_box").value;
         var len = s.length;//入力された文字の変数sの文字数をカウントする変数lenの宣言
         document.getElementById('output_space').innerHTML=s.slice(0,n);//HTMLのoutput_spaceというidの要素に、変数sの０文字目からn文字までのテキストを表示する
         if(n < len){//文字を増やす処理の回数が入力された文字数を超えるまで繰り返す
