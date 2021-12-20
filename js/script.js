@@ -1,5 +1,5 @@
 <script type="text/javascript">
-obj.onload = function() {
+function() {
    document.getElementById('edit_area').innerHTML =  ("テストです");
 }
     </script>
