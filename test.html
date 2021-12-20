@@ -12,28 +12,7 @@
 </head>
 </body>
   <body>
-      <script type="text/javascript">
-window.onload = function() {
-      var n;
-      //↓関数の宣言↓
-      function word(){
-        var s = "これはテストです";
-        var len = s.length;
-        document.getElementById('output_space').innerHTML=s.slice(0,n);
-        if(n < len){
-          n++;
-        } else{
-          clearInterval(intervalId);
-          s=null;
-          }
-      }
-      //↓関数の宣言↓
-      function startTimer(){
-        n=1;
-        intervalId=setInterval(word,300);
-      }
-}
-    </script>
-    <p id="output_space">いいい</p>  
+      <script src="js/script.js"></script>
+    <p id="edit_area">いいい</p>  
 </body>
 </html>
